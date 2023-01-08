@@ -6,7 +6,7 @@ LONG_DESCRIPTION = 'A simple example of dicom server with using PyNetDicom.'
 
 # Setting up
 setup(
-    name="server-d",
+    name="server-d-pnd-123",
     version=VERSION,
     author="artur24814",
     author_email="artur24814@gmail.com",

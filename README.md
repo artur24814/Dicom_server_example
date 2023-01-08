@@ -142,8 +142,15 @@ The project is not finished yet, come back later
 
 <center><h2 id="clone_project">Clone and Run a Project</h2></center>
 
+You can run this project in your Virtual Environment gust type 
 
-To start, we need to clone my project from Github:-
+`pip install server-d-pnd-123`
+
+Pypip page - https://pypi.org/project/server-d-pnd-123/0.0.1/
+
+How to create Virtual Environment see below
+
+Or if you want you can clone my project from Github:-
 <p>Above the list of files, click Code.</p>
 <img src="https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png">
 
