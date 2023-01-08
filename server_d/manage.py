@@ -1,5 +1,5 @@
 import argparse
-from converter import ConverterDicom
+from server_d.converter import ConverterDicom
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-d", "--dicom_image", help="path to dicom image")
